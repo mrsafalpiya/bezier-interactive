@@ -2,6 +2,10 @@
 
 A simple to use SDL-based program to show Bézier curves in interactive form.
 
+## Demo
+
+![Demo](docs/demo.gif)
+
 ## Compiling
 
 To compile the program, simply run
