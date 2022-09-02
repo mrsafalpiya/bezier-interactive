@@ -57,4 +57,4 @@ install: all
 uninstall:
 	rm -f ${DESTDIR}${PREFIX}/bin/${BIN}
 
-.PHONY: all debug clean install uninstall
+.PHONY: all release clean install uninstall
